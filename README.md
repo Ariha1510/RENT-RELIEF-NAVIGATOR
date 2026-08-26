@@ -1,7 +1,5 @@
 # <img src="./public/rent-relief-navigator.png" width="38" align="center" style="vertical-align: middle; margin-right: 10px;" /> RENT RELIEF NAVIGATOR
 
-# Rent Relief Navigator
-
 A web application that helps users discover affordable rental homes based on their budget, preferred location, and essential amenities. It simplifies the house-hunting process by providing an intuitive search interface and relevant property information.
 
 ---
