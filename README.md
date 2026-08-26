@@ -1,4 +1,4 @@
-# <img src="main/public/rent-relief-navigator.png" width="38" align="center" style="vertical-align: middle; margin-right: 8px;" /> RENT RELIEF NAVIGATOR
+# <img src="./public/rent-relief-navigator.png" width="38" align="center" style="vertical-align: middle; margin-right: 10px;" /> RENT RELIEF NAVIGATOR
 
 # Rent Relief Navigator
 
@@ -99,6 +99,6 @@ Fork the repository and submit a Pull Request.
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License.
